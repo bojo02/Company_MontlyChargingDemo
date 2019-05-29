@@ -1,2 +1,2 @@
-#Console application
-#Object oriented
+# Console application
+# Object oriented
