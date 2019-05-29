@@ -1,2 +1,2 @@
-# Company_MontlyChargingDemo console edition
+#Console application
 #Object oriented
